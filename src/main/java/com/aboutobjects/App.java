@@ -12,11 +12,11 @@ public class App  {
 
         System.out.println ("Hello Lambda") ;
 
-        int what = 1 ;
+        int what = 4 ;
         if (what == 1) MainUseCaseOne.main ("gemini") ;
         if (what == 2) MainPrimes.main ("lambda") ;
         if (what == 3) LambdletSoliloquyOnImmutableInteger.main();
-        if (what == 4) MainHanoiRecursion.main () ;
+        if (what == 4) MainHanoiRecursion.main ("gemini") ;
         if (what == 5) MainHanoiCurrying.main () ;
 
     }

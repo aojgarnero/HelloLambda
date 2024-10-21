@@ -25,7 +25,6 @@ The problem of `finding all primes numbers up to N` solved:
 
 * Imperative, Object Oriented like, in `OOPrimes.java`.
 * Functional in `LambdaPrimes.java`.
-* A functional example with a problem: `LambdaNotLikeThisPrimes.java`. See line .
 
 ### `Hanoi Towers Recursion` Use Case.
 

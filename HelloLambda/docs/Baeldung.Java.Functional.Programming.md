@@ -75,7 +75,11 @@ Ya sabes que es recursion. Pero `tail recursion` ? Hablarlo con el grupo.
 
 ## Is Java a Suitable Fit?
 
-Usage of fp in existing OO projects creates benefits.
+Java was designed to be OO, and 'classes' are the true first class citizens of the language. 
+
+Therefore there are many aspects of Java that do not fit perfectly in the functional programming paradigm.
+
+But since Java 8, existing Java programs can greatly benefit from functional programing practices.
 
 
 
